@@ -3,4 +3,7 @@ Hello World!!! <br/>
 Hey boy Pandey <br/>
 Hey boy Amit <br/>
 Hey boy Amit
+<<<<<<< HEAD
 
+=======
+>>>>>>> name
